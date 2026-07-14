@@ -1,5 +1,2 @@
-fastapi
-uvicorn
-httpx
-Pillow
+flask
 requests
